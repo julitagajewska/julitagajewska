@@ -13,7 +13,7 @@ I'm a 3rd-year Computer Science student at Bialystok University of Technology in
 <h2 align="left">Learning</h2>
 <ul>
   <li> Vue.js & Qwik </li>
-  <li> Functional programming wit JavaScript </li>
+  <li> Functional programming with JavaScript </li>
   <li> Data visualisation </li>
 </ul>
 
