@@ -53,4 +53,4 @@ I'm a 3rd-year Computer Science student at Bialystok University of Technology in
  
 <!-- Stats -->
 <h2 align="left">Stats</h2>
-<section><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=julitagajewska&show_icons=true&theme=onedark&locale=en&layout=compact" alt="julitagajewska" /></section>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=julitagajewska&show_icons=true&theme=discord_old_blurple&locale=en&layout=compact" alt="julitagajewska" /></p>
